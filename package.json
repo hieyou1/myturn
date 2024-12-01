@@ -1,0 +1,22 @@
+{
+    "name": "myturn",
+    "version": "1.0.0",
+    "main": "dist/index.js",
+    "type": "module",
+    "scripts": {
+        "test": "npm i; tsc; node dist/test.js"
+    },
+    "keywords": [
+        "myturn",
+        "mutex",
+        "lock",
+        "promise",
+        "async"
+    ],
+    "author": "hieyou1",
+    "license": "MIT",
+    "description": "Super simple library to make sure Promises wait their turn to resolve.",
+    "devDependencies": {
+        "@types/node": "^22.10.1"
+    }
+}

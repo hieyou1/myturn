@@ -1,0 +1,6 @@
+.env
+node_modules/
+src/
+README.md
+tsconfig.json
+dist/test.*
