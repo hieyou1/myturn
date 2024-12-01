@@ -13,6 +13,11 @@
         "promise",
         "async"
     ],
+    "homepage": "https://github.com/hieyou1/myturn#readme",
+    "bugs": {
+        "url": "https://github.com/hieyou1/myturn/issues"
+    },
+    "repository": "github:hieyou1/myturn",
     "author": "hieyou1",
     "license": "MIT",
     "description": "Super simple library to make sure Promises wait their turn to resolve.",
